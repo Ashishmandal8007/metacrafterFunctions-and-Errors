@@ -1,6 +1,7 @@
 # metacrafterFunctions-and-Errors
-This Solidity smart contract uses the assert, revert, and require methods to illustrate various error management strategies.
-# Description 
+In this solidity contract we will be using require(), assert(), revert() function and we will check the working of this three function
+
+# Description
 Solidity, a programming language used to create smart contracts for the Ethereum blockchain, was used to create this program, a Function and Error contract. 
 The three functions that handle software issues and correctly build and execute the smart contract are part of the contract. 
 This application serves as a solidity programming exception handling, used three statements require, assert, revert.
