@@ -1,4 +1,4 @@
-# Functionserrors
+# Functionerrors
 In this solidity contract I am  using require(), assert(), revert() function and we will check the working of this three function.
 
 # Description
